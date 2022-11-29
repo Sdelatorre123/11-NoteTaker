@@ -1,0 +1,16 @@
+[
+    {
+        "title":"Test Title",
+        "text":"test text lol"
+    },
+    {
+        "title": "doom",
+        "text": "i am doom",
+        "id": 1
+    },
+    {
+        "title": "new note",
+        "text": "need new test",
+        "id": 2
+    }
+]
